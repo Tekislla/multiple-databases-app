@@ -1,1 +1,2 @@
-# multiple-databases-app
+# Multiple databases
+Demo API using multiple databases
